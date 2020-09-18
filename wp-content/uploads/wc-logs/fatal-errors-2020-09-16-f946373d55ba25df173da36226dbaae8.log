@@ -1,0 +1,8 @@
+2020-09-16T17:54:12+00:00 CRITICAL Allowed memory size of 536870912 bytes exhausted (tried to allocate 489748792 bytes) in D:\XAMMP1\htdocs\GRID\wp-includes\class-wp-image-editor-gd.php on line 96
+
+2020-09-16T17:54:13+00:00 CRITICAL Allowed memory size of 536870912 bytes exhausted (tried to allocate 489748792 bytes) in D:\XAMMP1\htdocs\GRID\wp-includes\class-wp-image-editor-gd.php on line 96
+
+2020-09-16T17:54:14+00:00 CRITICAL Allowed memory size of 536870912 bytes exhausted (tried to allocate 489748792 bytes) in D:\XAMMP1\htdocs\GRID\wp-includes\class-wp-image-editor-gd.php on line 96
+
+2020-09-16T17:54:15+00:00 CRITICAL Allowed memory size of 536870912 bytes exhausted (tried to allocate 489748792 bytes) in D:\XAMMP1\htdocs\GRID\wp-includes\class-wp-image-editor-gd.php on line 96
+

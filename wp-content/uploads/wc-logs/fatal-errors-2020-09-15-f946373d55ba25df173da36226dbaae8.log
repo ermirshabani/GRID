@@ -1,0 +1,156 @@
+2020-09-15T19:27:32+00:00 CRITICAL require_once(): Failed opening required 'wp_bootstrap_navwalker.php' (include_path='D:\XAMMP1\php\PEAR') in D:\XAMMP1\htdocs\GRID\wp-content\themes\ErmirShabani\functions.php on line 58
+
+2020-09-15T19:27:56+00:00 CRITICAL require_once(): Failed opening required 'wp_bootstrap_navwalker.php' (include_path='D:\XAMMP1\php\PEAR') in D:\XAMMP1\htdocs\GRID\wp-content\themes\ErmirShabani\functions.php on line 58
+
+2020-09-15T19:27:58+00:00 CRITICAL require_once(): Failed opening required 'wp_bootstrap_navwalker.php' (include_path='D:\XAMMP1\php\PEAR') in D:\XAMMP1\htdocs\GRID\wp-content\themes\ErmirShabani\functions.php on line 58
+
+2020-09-15T19:28:11+00:00 CRITICAL require_once(): Failed opening required 'wp_bootstrap_navwalker.php' (include_path='D:\XAMMP1\php\PEAR') in D:\XAMMP1\htdocs\GRID\wp-content\themes\ErmirShabani\functions.php on line 58
+
+2020-09-15T19:28:12+00:00 CRITICAL require_once(): Failed opening required 'wp_bootstrap_navwalker.php' (include_path='D:\XAMMP1\php\PEAR') in D:\XAMMP1\htdocs\GRID\wp-content\themes\ErmirShabani\functions.php on line 58
+
+2020-09-15T19:28:14+00:00 CRITICAL require_once(): Failed opening required 'wp_bootstrap_navwalker.php' (include_path='D:\XAMMP1\php\PEAR') in D:\XAMMP1\htdocs\GRID\wp-content\themes\ErmirShabani\functions.php on line 58
+
+2020-09-15T19:31:06+00:00 CRITICAL Uncaught Error: Class 'wp_bootstrap_navwalker' not found in D:\XAMMP1\htdocs\GRID\wp-content\themes\ErmirShabani\header.php:33
+Stack trace:
+#0 D:\XAMMP1\htdocs\GRID\wp-includes\template.php(730): require_once()
+#1 D:\XAMMP1\htdocs\GRID\wp-includes\template.php(676): load_template('D:\\XAMMP1\\htdoc...', true, Array)
+#2 D:\XAMMP1\htdocs\GRID\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 D:\XAMMP1\htdocs\GRID\wp-content\themes\ErmirShabani\templates\home.php(5): get_header()
+#4 D:\XAMMP1\htdocs\GRID\wp-includes\template-loader.php(106): include('D:\\XAMMP1\\htdoc...')
+#5 D:\XAMMP1\htdocs\GRID\wp-blog-header.php(19): require_once('D:\\XAMMP1\\htdoc...')
+#6 D:\XAMMP1\htdocs\GRID\index.php(17): require('D:\\XAMMP1\\htdoc...')
+#7 {main}
+  thrown in D:\XAMMP1\htdocs\GRID\wp-content\themes\ErmirShabani\header.php on line 33
+
+2020-09-15T19:31:46+00:00 CRITICAL Uncaught Error: Class 'wp_bootstrap_navwalker' not found in D:\XAMMP1\htdocs\GRID\wp-content\themes\ErmirShabani\header.php:33
+Stack trace:
+#0 D:\XAMMP1\htdocs\GRID\wp-includes\template.php(730): require_once()
+#1 D:\XAMMP1\htdocs\GRID\wp-includes\template.php(676): load_template('D:\\XAMMP1\\htdoc...', true, Array)
+#2 D:\XAMMP1\htdocs\GRID\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 D:\XAMMP1\htdocs\GRID\wp-content\themes\ErmirShabani\templates\home.php(5): get_header()
+#4 D:\XAMMP1\htdocs\GRID\wp-includes\template-loader.php(106): include('D:\\XAMMP1\\htdoc...')
+#5 D:\XAMMP1\htdocs\GRID\wp-blog-header.php(19): require_once('D:\\XAMMP1\\htdoc...')
+#6 D:\XAMMP1\htdocs\GRID\index.php(17): require('D:\\XAMMP1\\htdoc...')
+#7 {main}
+  thrown in D:\XAMMP1\htdocs\GRID\wp-content\themes\ErmirShabani\header.php on line 33
+
+2020-09-15T19:31:48+00:00 CRITICAL Uncaught Error: Class 'wp_bootstrap_navwalker' not found in D:\XAMMP1\htdocs\GRID\wp-content\themes\ErmirShabani\header.php:33
+Stack trace:
+#0 D:\XAMMP1\htdocs\GRID\wp-includes\template.php(730): require_once()
+#1 D:\XAMMP1\htdocs\GRID\wp-includes\template.php(676): load_template('D:\\XAMMP1\\htdoc...', true, Array)
+#2 D:\XAMMP1\htdocs\GRID\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 D:\XAMMP1\htdocs\GRID\wp-content\themes\ErmirShabani\templates\home.php(5): get_header()
+#4 D:\XAMMP1\htdocs\GRID\wp-includes\template-loader.php(106): include('D:\\XAMMP1\\htdoc...')
+#5 D:\XAMMP1\htdocs\GRID\wp-blog-header.php(19): require_once('D:\\XAMMP1\\htdoc...')
+#6 D:\XAMMP1\htdocs\GRID\index.php(17): require('D:\\XAMMP1\\htdoc...')
+#7 {main}
+  thrown in D:\XAMMP1\htdocs\GRID\wp-content\themes\ErmirShabani\header.php on line 33
+
+2020-09-15T19:31:49+00:00 CRITICAL Uncaught Error: Class 'wp_bootstrap_navwalker' not found in D:\XAMMP1\htdocs\GRID\wp-content\themes\ErmirShabani\header.php:33
+Stack trace:
+#0 D:\XAMMP1\htdocs\GRID\wp-includes\template.php(730): require_once()
+#1 D:\XAMMP1\htdocs\GRID\wp-includes\template.php(676): load_template('D:\\XAMMP1\\htdoc...', true, Array)
+#2 D:\XAMMP1\htdocs\GRID\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 D:\XAMMP1\htdocs\GRID\wp-content\themes\ErmirShabani\templates\home.php(5): get_header()
+#4 D:\XAMMP1\htdocs\GRID\wp-includes\template-loader.php(106): include('D:\\XAMMP1\\htdoc...')
+#5 D:\XAMMP1\htdocs\GRID\wp-blog-header.php(19): require_once('D:\\XAMMP1\\htdoc...')
+#6 D:\XAMMP1\htdocs\GRID\index.php(17): require('D:\\XAMMP1\\htdoc...')
+#7 {main}
+  thrown in D:\XAMMP1\htdocs\GRID\wp-content\themes\ErmirShabani\header.php on line 33
+
+2020-09-15T19:32:15+00:00 CRITICAL Uncaught Error: Class 'wp_bootstrap_navwalker' not found in D:\XAMMP1\htdocs\GRID\wp-content\themes\ErmirShabani\header.php:33
+Stack trace:
+#0 D:\XAMMP1\htdocs\GRID\wp-includes\template.php(730): require_once()
+#1 D:\XAMMP1\htdocs\GRID\wp-includes\template.php(676): load_template('D:\\XAMMP1\\htdoc...', true, Array)
+#2 D:\XAMMP1\htdocs\GRID\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 D:\XAMMP1\htdocs\GRID\wp-content\themes\ErmirShabani\templates\home.php(5): get_header()
+#4 D:\XAMMP1\htdocs\GRID\wp-includes\template-loader.php(106): include('D:\\XAMMP1\\htdoc...')
+#5 D:\XAMMP1\htdocs\GRID\wp-blog-header.php(19): require_once('D:\\XAMMP1\\htdoc...')
+#6 D:\XAMMP1\htdocs\GRID\index.php(17): require('D:\\XAMMP1\\htdoc...')
+#7 {main}
+  thrown in D:\XAMMP1\htdocs\GRID\wp-content\themes\ErmirShabani\header.php on line 33
+
+2020-09-15T19:32:25+00:00 CRITICAL Uncaught Error: Class 'wp_bootstrap_navwalker' not found in D:\XAMMP1\htdocs\GRID\wp-content\themes\ErmirShabani\header.php:33
+Stack trace:
+#0 D:\XAMMP1\htdocs\GRID\wp-includes\template.php(730): require_once()
+#1 D:\XAMMP1\htdocs\GRID\wp-includes\template.php(676): load_template('D:\\XAMMP1\\htdoc...', true, Array)
+#2 D:\XAMMP1\htdocs\GRID\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 D:\XAMMP1\htdocs\GRID\wp-content\themes\ErmirShabani\templates\home.php(5): get_header()
+#4 D:\XAMMP1\htdocs\GRID\wp-includes\template-loader.php(106): include('D:\\XAMMP1\\htdoc...')
+#5 D:\XAMMP1\htdocs\GRID\wp-blog-header.php(19): require_once('D:\\XAMMP1\\htdoc...')
+#6 D:\XAMMP1\htdocs\GRID\index.php(17): require('D:\\XAMMP1\\htdoc...')
+#7 {main}
+  thrown in D:\XAMMP1\htdocs\GRID\wp-content\themes\ErmirShabani\header.php on line 33
+
+2020-09-15T19:32:27+00:00 CRITICAL Uncaught Error: Class 'wp_bootstrap_navwalker' not found in D:\XAMMP1\htdocs\GRID\wp-content\themes\ErmirShabani\header.php:33
+Stack trace:
+#0 D:\XAMMP1\htdocs\GRID\wp-includes\template.php(730): require_once()
+#1 D:\XAMMP1\htdocs\GRID\wp-includes\template.php(676): load_template('D:\\XAMMP1\\htdoc...', true, Array)
+#2 D:\XAMMP1\htdocs\GRID\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 D:\XAMMP1\htdocs\GRID\wp-content\themes\ErmirShabani\templates\home.php(5): get_header()
+#4 D:\XAMMP1\htdocs\GRID\wp-includes\template-loader.php(106): include('D:\\XAMMP1\\htdoc...')
+#5 D:\XAMMP1\htdocs\GRID\wp-blog-header.php(19): require_once('D:\\XAMMP1\\htdoc...')
+#6 D:\XAMMP1\htdocs\GRID\index.php(17): require('D:\\XAMMP1\\htdoc...')
+#7 {main}
+  thrown in D:\XAMMP1\htdocs\GRID\wp-content\themes\ErmirShabani\header.php on line 33
+
+2020-09-15T19:32:40+00:00 CRITICAL Uncaught Error: Class 'wp_bootstrap_navwalker' not found in D:\XAMMP1\htdocs\GRID\wp-content\themes\ErmirShabani\header.php:33
+Stack trace:
+#0 D:\XAMMP1\htdocs\GRID\wp-includes\template.php(730): require_once()
+#1 D:\XAMMP1\htdocs\GRID\wp-includes\template.php(676): load_template('D:\\XAMMP1\\htdoc...', true, Array)
+#2 D:\XAMMP1\htdocs\GRID\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 D:\XAMMP1\htdocs\GRID\wp-content\themes\ErmirShabani\templates\home.php(5): get_header()
+#4 D:\XAMMP1\htdocs\GRID\wp-includes\template-loader.php(106): include('D:\\XAMMP1\\htdoc...')
+#5 D:\XAMMP1\htdocs\GRID\wp-blog-header.php(19): require_once('D:\\XAMMP1\\htdoc...')
+#6 D:\XAMMP1\htdocs\GRID\index.php(17): require('D:\\XAMMP1\\htdoc...')
+#7 {main}
+  thrown in D:\XAMMP1\htdocs\GRID\wp-content\themes\ErmirShabani\header.php on line 33
+
+2020-09-15T19:32:44+00:00 CRITICAL Uncaught Error: Class 'wp_bootstrap_navwalker' not found in D:\XAMMP1\htdocs\GRID\wp-content\themes\ErmirShabani\header.php:33
+Stack trace:
+#0 D:\XAMMP1\htdocs\GRID\wp-includes\template.php(730): require_once()
+#1 D:\XAMMP1\htdocs\GRID\wp-includes\template.php(676): load_template('D:\\XAMMP1\\htdoc...', true, Array)
+#2 D:\XAMMP1\htdocs\GRID\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 D:\XAMMP1\htdocs\GRID\wp-content\themes\ErmirShabani\templates\home.php(5): get_header()
+#4 D:\XAMMP1\htdocs\GRID\wp-includes\template-loader.php(106): include('D:\\XAMMP1\\htdoc...')
+#5 D:\XAMMP1\htdocs\GRID\wp-blog-header.php(19): require_once('D:\\XAMMP1\\htdoc...')
+#6 D:\XAMMP1\htdocs\GRID\index.php(17): require('D:\\XAMMP1\\htdoc...')
+#7 {main}
+  thrown in D:\XAMMP1\htdocs\GRID\wp-content\themes\ErmirShabani\header.php on line 33
+
+2020-09-15T19:32:47+00:00 CRITICAL Uncaught Error: Class 'wp_bootstrap_navwalker' not found in D:\XAMMP1\htdocs\GRID\wp-content\themes\ErmirShabani\header.php:33
+Stack trace:
+#0 D:\XAMMP1\htdocs\GRID\wp-includes\template.php(730): require_once()
+#1 D:\XAMMP1\htdocs\GRID\wp-includes\template.php(676): load_template('D:\\XAMMP1\\htdoc...', true, Array)
+#2 D:\XAMMP1\htdocs\GRID\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 D:\XAMMP1\htdocs\GRID\wp-content\themes\ErmirShabani\templates\home.php(5): get_header()
+#4 D:\XAMMP1\htdocs\GRID\wp-includes\template-loader.php(106): include('D:\\XAMMP1\\htdoc...')
+#5 D:\XAMMP1\htdocs\GRID\wp-blog-header.php(19): require_once('D:\\XAMMP1\\htdoc...')
+#6 D:\XAMMP1\htdocs\GRID\index.php(17): require('D:\\XAMMP1\\htdoc...')
+#7 {main}
+  thrown in D:\XAMMP1\htdocs\GRID\wp-content\themes\ErmirShabani\header.php on line 33
+
+2020-09-15T19:33:11+00:00 CRITICAL require_once(): Failed opening required 'wp_bootstrap_navwalker.php' (include_path='D:\XAMMP1\php\PEAR') in D:\XAMMP1\htdocs\GRID\wp-content\themes\ErmirShabani\functions.php on line 39
+
+2020-09-15T19:33:37+00:00 CRITICAL require_once(): Failed opening required 'wp_bootstrap_navwalker.php' (include_path='D:\XAMMP1\php\PEAR') in D:\XAMMP1\htdocs\GRID\wp-content\themes\ErmirShabani\functions.php on line 39
+
+2020-09-15T19:33:40+00:00 CRITICAL require_once(): Failed opening required 'wp_bootstrap_navwalker.php' (include_path='D:\XAMMP1\php\PEAR') in D:\XAMMP1\htdocs\GRID\wp-content\themes\ErmirShabani\functions.php on line 39
+
+2020-09-15T19:33:42+00:00 CRITICAL require_once(): Failed opening required 'wp_bootstrap_navwalker.php' (include_path='D:\XAMMP1\php\PEAR') in D:\XAMMP1\htdocs\GRID\wp-content\themes\ErmirShabani\functions.php on line 39
+
+2020-09-15T19:33:45+00:00 CRITICAL require_once(): Failed opening required 'wp_bootstrap_navwalker.php' (include_path='D:\XAMMP1\php\PEAR') in D:\XAMMP1\htdocs\GRID\wp-content\themes\ErmirShabani\functions.php on line 39
+
+2020-09-15T19:33:45+00:00 CRITICAL require_once(): Failed opening required 'wp_bootstrap_navwalker.php' (include_path='D:\XAMMP1\php\PEAR') in D:\XAMMP1\htdocs\GRID\wp-content\themes\ErmirShabani\functions.php on line 39
+
+2020-09-15T19:34:03+00:00 CRITICAL require_once(): Failed opening required 'wp-bootstrap-navwalker.php' (include_path='D:\XAMMP1\php\PEAR') in D:\XAMMP1\htdocs\GRID\wp-content\themes\ErmirShabani\functions.php on line 39
+
+2020-09-15T19:34:05+00:00 CRITICAL require_once(): Failed opening required 'wp-bootstrap-navwalker.php' (include_path='D:\XAMMP1\php\PEAR') in D:\XAMMP1\htdocs\GRID\wp-content\themes\ErmirShabani\functions.php on line 39
+
+2020-09-15T20:47:37+00:00 CRITICAL Uncaught Error: Call to a member function get_sku() on null in D:\XAMMP1\htdocs\GRID\wp-content\themes\ErmirShabani\templates\home.php:14
+Stack trace:
+#0 D:\XAMMP1\htdocs\GRID\wp-includes\template-loader.php(106): include()
+#1 D:\XAMMP1\htdocs\GRID\wp-blog-header.php(19): require_once('D:\\XAMMP1\\htdoc...')
+#2 D:\XAMMP1\htdocs\GRID\index.php(17): require('D:\\XAMMP1\\htdoc...')
+#3 {main}
+  thrown in D:\XAMMP1\htdocs\GRID\wp-content\themes\ErmirShabani\templates\home.php on line 14
+
