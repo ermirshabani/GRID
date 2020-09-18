@@ -27,7 +27,7 @@
 </div>
 </div>
 <!-- MBARIMI I PJESES SE BANNERIT POSHT MENUS -->
-<div><p>WORKINGGGGGGGGGGGGGGGGGGGGG</p></div>
+<div><p>HELLO WORLD</p></div>
 <div class="productsHome">
 <div class="container">
 <?php echo do_shortcode('[products limit="4" columns="4" orderby="popularity" class="quick-sale" on_sale="true" ]
