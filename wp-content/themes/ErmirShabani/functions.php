@@ -57,3 +57,37 @@ function register_my_menu() {
     return $sizes;
     
   });
+
+  //Kodi per shfaqjen e widgets
+
+  function ourWidgetsInit() {
+
+    register_sidebar( array (
+      'name' => 'Sidebar',
+      'id' => 'sidebar1',
+    ));
+  }
+
+  add_action('widgets_init', 'ourWidgetsInit');
+
+  function ourWidgetsInit2() {
+
+    register_sidebar( array (
+      'name' => 'ShopSideBar',
+      'id' => 'shopsidebar',
+    ));
+  }
+  
+  add_action('widgets_init', 'ourWidgetsInit2');
+
+
+  /* <?php if ( is_active_sidebar( 'shopsidebar' ) ) { ?>
+    <ul id="sidebar">
+        <?php dynamic_sidebar('shopsidebar'); ?>
+    </ul>
+<?php } ?> 
+
+Kodi per shfaqjen e sidebar
+
+*/ 
+  

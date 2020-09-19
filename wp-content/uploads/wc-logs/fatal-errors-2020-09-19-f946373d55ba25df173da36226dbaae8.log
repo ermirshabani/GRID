@@ -1,0 +1,26 @@
+2020-09-19T14:01:25+00:00 CRITICAL Allowed memory size of 536870912 bytes exhausted (tried to allocate 489748792 bytes) in D:\XAMMP1\htdocs\GRID\wp-includes\class-wp-image-editor-gd.php on line 96
+
+2020-09-19T14:02:57+00:00 CRITICAL Allowed memory size of 536870912 bytes exhausted (tried to allocate 489748792 bytes) in D:\XAMMP1\htdocs\GRID\wp-includes\class-wp-image-editor-gd.php on line 96
+
+2020-09-19T14:07:55+00:00 CRITICAL Allowed memory size of 536870912 bytes exhausted (tried to allocate 489748792 bytes) in D:\XAMMP1\htdocs\GRID\wp-includes\class-wp-image-editor-gd.php on line 96
+
+2020-09-19T14:14:56+00:00 CRITICAL syntax error, unexpected ')' in D:\XAMMP1\htdocs\GRID\wp-content\themes\ErmirShabani\functions.php on line 75
+
+2020-09-19T14:15:07+00:00 CRITICAL syntax error, unexpected ')' in D:\XAMMP1\htdocs\GRID\wp-content\themes\ErmirShabani\functions.php on line 75
+
+2020-09-19T14:16:29+00:00 CRITICAL Allowed memory size of 536870912 bytes exhausted (tried to allocate 489748792 bytes) in D:\XAMMP1\htdocs\GRID\wp-includes\class-wp-image-editor-gd.php on line 96
+
+2020-09-19T14:17:56+00:00 CRITICAL Allowed memory size of 536870912 bytes exhausted (tried to allocate 489748792 bytes) in D:\XAMMP1\htdocs\GRID\wp-includes\class-wp-image-editor-gd.php on line 96
+
+2020-09-19T14:22:51+00:00 CRITICAL Cannot redeclare register_sidebar() (previously declared in D:\XAMMP1\htdocs\GRID\wp-includes\widgets.php:247) in D:\XAMMP1\htdocs\GRID\wp-content\themes\ErmirShabani\functions.php on line 129
+
+2020-09-19T14:23:03+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in D:\XAMMP1\htdocs\GRID\wp-content\themes\ErmirShabani\functions.php on line 130
+
+2020-09-19T14:23:07+00:00 CRITICAL Cannot redeclare register_sidebar() (previously declared in D:\XAMMP1\htdocs\GRID\wp-includes\widgets.php:247) in D:\XAMMP1\htdocs\GRID\wp-content\themes\ErmirShabani\functions.php on line 129
+
+2020-09-19T14:23:29+00:00 CRITICAL Allowed memory size of 536870912 bytes exhausted (tried to allocate 489748792 bytes) in D:\XAMMP1\htdocs\GRID\wp-includes\class-wp-image-editor-gd.php on line 96
+
+2020-09-19T14:28:36+00:00 CRITICAL Allowed memory size of 536870912 bytes exhausted (tried to allocate 489748792 bytes) in D:\XAMMP1\htdocs\GRID\wp-includes\class-wp-image-editor-gd.php on line 96
+
+2020-09-19T14:33:17+00:00 CRITICAL Allowed memory size of 536870912 bytes exhausted (tried to allocate 489748792 bytes) in D:\XAMMP1\htdocs\GRID\wp-includes\class-wp-image-editor-gd.php on line 96
+

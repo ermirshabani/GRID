@@ -1,0 +1,110 @@
+2020-09-19T13:31:50+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 5f610f0e5bb86
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => 27356785c6
+            [name] => GRID
+            [domain] => http://localhost/GRID
+            [email_address] => ermir.shabani@universitetiaab.com
+            [currency_code] => USD
+            [money_format] => $
+            [primary_locale] => en
+            [timezone] => Europe/Paris
+            [phone] => +38345944311
+            [address] => Array
+                (
+                    [address1] => 17 shkurti
+                    [city] => Shtime
+                    [province] => Kosovo
+                    [postal_code] => 72000
+                    [country] => AL
+                    [country_code] => AL
+                    [phone] => +38345944311
+                    [company] => GRID
+                )
+
+        )
+
+)
+
+2020-09-19T13:31:54+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 5f610f0e5bb86
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => 27356785c6
+            [name] => GRID
+            [domain] => http://localhost/GRID
+            [email_address] => ermir.shabani@universitetiaab.com
+            [currency_code] => USD
+            [money_format] => $
+            [primary_locale] => en
+            [timezone] => Europe/Paris
+            [phone] => +38345944311
+            [address] => Array
+                (
+                    [address1] => 17 shkurti
+                    [city] => Shtime
+                    [province] => Kosovo
+                    [postal_code] => 72000
+                    [country] => AL
+                    [country_code] => AL
+                    [phone] => +38345944311
+                    [company] => GRID
+                )
+
+        )
+
+)
+
+2020-09-19T13:31:57+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 5f610f0e5bb86
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => 27356785c6
+            [name] => GRID
+            [domain] => http://localhost/GRID
+            [email_address] => ermir.shabani@universitetiaab.com
+            [currency_code] => USD
+            [money_format] => $
+            [primary_locale] => en
+            [timezone] => Europe/Paris
+            [phone] => +38345944311
+            [address] => Array
+                (
+                    [address1] => 17 shkurti
+                    [city] => Shtime
+                    [province] => Kosovo
+                    [postal_code] => 72000
+                    [country] => AL
+                    [country_code] => AL
+                    [phone] => +38345944311
+                    [company] => GRID
+                )
+
+        )
+
+)
+
+2020-09-19T13:32:00+00:00 NOTICE mailchimp-woocommerce-sync.started :: Starting Sync :: Sat, Sep 19, 2020 1:32 PM
+2020-09-19T13:32:01+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Coupons queued :: page 1
+2020-09-19T13:32:11+00:00 NOTICE coupon_sync.completed :: Done with the coupon queueing.
+2020-09-19T13:32:11+00:00 NOTICE sync.full_sync_manager.queue :: Starting PRODUCTS queueing.
+2020-09-19T13:32:11+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Products queued :: page 1
+2020-09-19T13:32:11+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Products queued :: page 2
+2020-09-19T13:32:12+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 15
+2020-09-19T13:32:12+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 50
+2020-09-19T13:32:14+00:00 NOTICE product_sync.completed :: Done with the product queuing
+2020-09-19T13:32:16+00:00 NOTICE product_submit.success :: addStoreProduct :: #15
+2020-09-19T13:32:17+00:00 NOTICE product_submit.success :: addStoreProduct :: #50
+2020-09-19T13:32:33+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Orders queued :: page 1
+2020-09-19T13:32:35+00:00 NOTICE order_sync.completed :: Done with the order queueing.
+2020-09-19T13:33:04+00:00 NOTICE sync.completed :: Finished Sync :: Sat, Sep 19, 2020 1:33 PM (total time: 00:01:04)
