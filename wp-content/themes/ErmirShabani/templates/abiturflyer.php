@@ -209,7 +209,7 @@ Template Name: Abiturflyer
     <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
   <script>
     AOS.init({
-  
+ disable: 'mobile',
   offset: 240, // offset (in px) from the original trigger point
   delay: 0, // values from 0 to 3000, with step 50ms
   duration: 400, // values from 0 to 3000, with step 50ms
@@ -217,7 +217,7 @@ Template Name: Abiturflyer
   once: true, // whether animation should happen only once - while scrolling down
   mirror: false, // whether elements should animate out while scrolling past them
   anchorPlacement: 'top-bottom', // defines which position of the element regarding to window should trigger the animation
-
+  
 });
   </script>
 
