@@ -4,6 +4,7 @@
  
  <?php get_header(); ?>
 <!-- FILLIMI I PJESES SE BANNERIT POSHT MENUS -->
+<div class="container-fluid">
 <div class="jumbotronHeader">
 <div class="row">
 
@@ -26,6 +27,9 @@
 
 </div>
 </div>
+
+</div>
+
 <!-- MBARIMI I PJESES SE BANNERIT POSHT MENUS -->
 <div class="productsHome">
 <div class="container">

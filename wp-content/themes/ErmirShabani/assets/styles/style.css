@@ -1,6 +1,5 @@
 html,
 body {
-  overflow-x: hidden !important;
   height: 100% !important;
   width: 100% !important;
   margin: 0px !important;
@@ -42,14 +41,16 @@ body {
 }
 .jumbotronHeader {
   height: 100%;
+  width: 100%;
 }
 .jumbotronHeader .imageHeader img {
   width: 100%;
   height: 800px;
+  display: block;
 }
 .jumbotronHeader .titleHeader h3 {
   text-transform: uppercase;
-  font-size: 60px;
+  font-size: 30px;
   font-weight: bolder;
 }
 .jumbotronHeader .titleHeader p {
@@ -156,7 +157,11 @@ body {
     height: auto;
   }
 }
-
+.elementor-row .elementor-column-wrap {
+  background-color: #d4d4d4;
+  color: #ffffff;
+  text-align: center;
+}
 /* FILLIMI I PJESES PER ABITURFLYER */
 /* ================================================================================== */
 .divBg {
@@ -173,6 +178,7 @@ body {
   object-fit: cover;
   margin-left: 20px;
 }
+
 .containerHead {
   background-image: url("../Images/svgBg.png");
   background-size: 100% 100%;
@@ -196,6 +202,7 @@ body {
   font-size: 37px;
   letter-spacing: 3px;
 }
+
 #txt2 {
   font-size: 35px;
   margin-top: -15px;
@@ -213,6 +220,7 @@ body {
   margin-top: -10px;
   display: block;
 }
+
 .txtFlyer p {
   color: #ffffff;
   text-align: justify;
@@ -234,6 +242,12 @@ body {
   border: 5px solid #f0f0f0;
   background-color: #f0f0f0;
   border-radius: 100%;
+}
+.fotoFlyer img:hover {
+  transform: scale(1.2) rotate(360deg);
+  transition: 1s;
+  
+
 }
 .container.containeri2 {
   background-color: #f0f0f0;

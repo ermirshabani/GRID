@@ -29,7 +29,7 @@ Template Name: Abiturflyer
             <!-- MBARIMI I KOLONES SE DYTE -->
 
             <!-- FILLIMI I KOLONES SE TRETE TE PJESES FILLESTARE -->
-            <div class="col col-12 col-lg-5 txtFlyer">
+            <div class="col col-12 col-lg-5 txtFlyer" data-aos="fade-right"> 
                 <p><b>exSAM</b> - externe Schulabschlüsse
                     München bereitet dich zielgerichtet auf die
                     Abschlussprüfung für das Abitur vor.
@@ -44,7 +44,7 @@ Template Name: Abiturflyer
             <!-- MBARIMI I KOLONES SE TRETE -->
 
             <!-- FILLIMI I KOLONES SE KATERT TE PJESES FILLESTARE -->
-            <div class="col col-12 col-lg-7 fotoFlyer">
+            <div class="col col-12 col-lg-7 fotoFlyer" data-aos="fade-left">
                 <img src="<?php the_field('photo') ?>">
             </div>
             <!-- MBARIMI I KOLONES SE KATERT -->
@@ -59,7 +59,7 @@ Template Name: Abiturflyer
         <div class="row">
 
             <!-- NDARJA E PJESEVE NE KOLONA -->
-            <div class="col col-12 col-lg-6 col-xl-6">
+            <div class="col col-12 col-lg-6 col-xl-6" data-aos="fade-right">
                 <div class="kontenti">
                     <h2>Weshalb ist es eine vielversprechende
                         Möglichkeit, das Abitur nachzuholen?
@@ -89,7 +89,7 @@ Template Name: Abiturflyer
             <!-- MBARIMI I KOLONES SE PARE -->
 
             <!-- FILLIMI I KOLONES SE DYTE -->
-            <div class="col col-12 col-lg-6 col-xl-6">
+            <div class="col col-12 col-lg-6 col-xl-6" data-aos="fade-left">
                 <div class="kontenti2">
                     <h2>Welche Vorteile erwarten dich, wenn du
                         mit exSAM dein Abitur nachholst?</h2>
@@ -129,12 +129,12 @@ Template Name: Abiturflyer
 
             <!-- KOLONA ME FOTON E CILA ZE TE GJITHE HAPESIREN E SAJ TE KOLONES -->
             <div class="col col-12 orangePhoto">
-                <img src="<?php the_field('orangephoto') ?>">
+                <img src="<?php the_field('orangephoto') ?>" data-aos="slide-up">
             </div>
 
             <div class="col col-lg-6 col-12 karta1col">
                 <div class="karta1">
-                    <div class="karta1border">
+                    <div class="karta1border" data-aos="fade-right">
                         <div class="bordertst"></div>
                         <h1>Anforderung und externe Abschlussprüfung</h1>
                         <ul>
@@ -171,7 +171,7 @@ Template Name: Abiturflyer
 
             <div class="col col-lg-6 col-12 karta1col">
                 <div class="karta1">
-                    <div class="karta1border">
+                    <div class="karta1border" data-aos="fade-left">
                         <div class="bordertst2"></div>
                         <h1>Bestimmungen für die Fächerwahl des schriftlichen Abiturs </h1>
                         <p id="smallp1"> Abdeckung von drei Aufgabenfeldern:</p>
@@ -205,5 +205,20 @@ Template Name: Abiturflyer
         </div>
     </div>
     <!-- MBARIMI I DIVIT KRYESOR DHE TE BACKGROUNDIT TE JASHTEM -->
+
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+  <script>
+    AOS.init({
+  
+  offset: 240, // offset (in px) from the original trigger point
+  delay: 0, // values from 0 to 3000, with step 50ms
+  duration: 400, // values from 0 to 3000, with step 50ms
+  easing: 'ease', // default easing for AOS animations
+  once: true, // whether animation should happen only once - while scrolling down
+  mirror: false, // whether elements should animate out while scrolling past them
+  anchorPlacement: 'top-bottom', // defines which position of the element regarding to window should trigger the animation
+
+});
+  </script>
 
     <?php get_footer();?>
