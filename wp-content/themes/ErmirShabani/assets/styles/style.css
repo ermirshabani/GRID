@@ -223,6 +223,8 @@ body {
 #txt3 {
   font-size: 78px;
   margin-top: -55px;
+  
+
 }
 .titulliFlyer li i {
   width: 70px;
@@ -255,8 +257,10 @@ body {
 }
 .fotoFlyer img:hover {
   transform: scale(1.2) rotate(360deg);
-  transition: 1s;
+  transition: .5s;
+ 
 }
+
 .container.containeri2 {
   background-color: #f0f0f0;
   background-image: url("../Images/svgbg2.png");
@@ -312,7 +316,7 @@ body {
   margin-left: auto;
   margin-right: auto;
   display: block;
-  margin-top: -70px;
+  margin-top: -73px;
 }
 .karta1 #h12 {
   font-size: 25px;
@@ -435,7 +439,7 @@ body {
   -webkit-transform: skew(0deg, -6deg);
   -o-transform: skew(0deg, -6deg);
   -ms-transform: skew(0deg, -6deg);
-  transform: skew(0deg, 2deg);
+  transform: skew(0deg, -4deg);
   z-index: 1;
 }
 .bordertst2 {
@@ -449,7 +453,7 @@ body {
   -webkit-transform: skew(0deg, -6deg);
   -o-transform: skew(0deg, -6deg);
   -ms-transform: skew(0deg, -6deg);
-  transform: skew(0deg, -2deg);
+  transform: skew(0deg, 4deg);
   z-index: 1;
 }
 
@@ -515,6 +519,10 @@ body {
     height: auto;
     object-fit: cover;
    
+  }
+  .fotoFlyer img:hover {
+    transform:rotate(360deg);
+    transition: .5s;
   }
   .container.containeri2 {
     background-color: #e9e7e7;
@@ -679,7 +687,10 @@ body {
     margin-right: auto;
     display: block;
   }
-
+  .fotoFlyer img:hover {
+    transform:rotate(360deg);
+    transition: .5s;
+  }
   .titulliFlyer ul {
     margin: 0;
     padding: 0;
@@ -837,6 +848,10 @@ body {
     margin-right: auto;
     display: block;
   
+  }
+  .fotoFlyer img:hover {
+    transform:rotate(360deg);
+    transition: .5s;
   }
   .container.containeri2 h2 {
     font-size: 20px;
