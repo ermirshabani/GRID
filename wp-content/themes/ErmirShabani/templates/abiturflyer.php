@@ -129,7 +129,7 @@ Template Name: Abiturflyer
 
             <!-- KOLONA ME FOTON E CILA ZE TE GJITHE HAPESIREN E SAJ TE KOLONES -->
             <div class="col col-12 orangePhoto">
-                <img src="<?php the_field('orangephoto') ?>" data-aos="slide-up">
+                <img src="<?php the_field('orangephoto') ?>">
             </div>
 
             <div class="col col-lg-6 col-12 karta1col">
@@ -206,6 +206,8 @@ Template Name: Abiturflyer
     </div>
     <!-- MBARIMI I DIVIT KRYESOR DHE TE BACKGROUNDIT TE JASHTEM -->
 
+
+     <!-- PERDORIMI I LIBRARIS AOS -->
     <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
   <script>
     AOS.init({
@@ -220,5 +222,7 @@ Template Name: Abiturflyer
   
 });
   </script>
+
+  <!-- MBARIMI I LIBRARIS -->
 
     <?php get_footer();?>
