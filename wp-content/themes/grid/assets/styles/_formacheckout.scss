@@ -1,0 +1,370 @@
+
+.bgCheckout {
+    background-color: #ffffff;
+   margin: 0;
+  padding-bottom: 30px;
+  padding-top: 30px;
+  height: auto;
+.checkout_coupon {
+    background-color: #ffffff;
+    border: 0;
+    p{
+        text-align: center;
+         font-weight: 400;
+
+         input {
+             border: 0;
+             background-color: #E7E7E7;
+             padding: 20px;
+             border-radius: 20px;
+         }
+
+         button {
+             background-color: #333333;
+             color: #ffffff;
+             padding: 20px;
+             border-radius: 20px;
+             width: 100%;
+         }
+    }
+    
+}
+
+.custom-checkout {
+    padding: 40px;
+    border-radius: 30px;
+    box-shadow: 1px 1px 19px 0 rgba(0,0,0,0.15);
+    background-color: #ffffff;
+    font-weight: 100;
+    
+    form {
+        
+        .billing-details {
+            padding: 0 !important;
+            margin:  0 !important;
+        }
+    }
+   .col-12.row {
+       margin: 0;
+       padding: 0;
+   }
+    .woocommerce-input-wrapper {
+        
+        width: 100%;
+        display: block;
+        input {
+            padding: 10px 10px 10px 0;
+            border: 0;
+            border-bottom: 1px solid #e7e7e7;
+            background-color: #ffffff;
+            font-weight: 350;
+        }
+        span {
+         
+            border-radius: 10px;
+            border: 0;
+            background-color: #f3f3f3;
+        }
+}
+.woocommerce-billing-fields {
+    border:0;
+    border-radius: 10px;
+    border-bottom-right-radius: 0;
+    border-top-right-radius: 0;
+    padding: 20px;
+    background-color: #FFF;
+    box-shadow: 1px 1px 19px 1px rgba(0,0,0,0.25);
+
+    h3 {
+        text-transform: uppercase;
+        font-weight: 100;
+
+        text-align: center;
+    }
+}
+.woocommerce-additional-fields {
+    border:0;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: #FFF;
+ 
+    textarea {
+        background-color: #f3f2f2;
+        padding: 20px;
+        border: 0;
+        border-radius: 10px;
+        resize: none;
+        font-weight: 100;
+    }
+
+}
+.formaPorosia {
+    background-color: #ffffff;
+    border-radius: 10px;
+    border-bottom-left-radius: 0;
+    border-top-left-radius: 0;
+    box-shadow: 1px 1px 19px 1px rgba(0,0,0,0.25);
+    
+
+    h3 {
+        text-transform: uppercase;
+        font-weight: 100;
+        text-align: center;
+    }
+    .payment_methods {
+        background-color: #ffffff;
+    }
+    .place-order {
+        background-color: #ffffff;
+     
+    }
+    .woocommerce-notice {
+        background-color: #e7e7e7;
+        color: #333333;
+        font-weight: 600;
+        border: 0 !important;
+        border-radius: 20px;
+       
+    }
+   
+
+}
+
+}
+.cart_checkout {
+    .wc-proceed-to-checkout {
+        a {
+            background-color: black !important;
+            
+            &:hover {
+                opacity: 0.8;
+            }
+        }
+    }
+}
+#payment{
+    .form-row{
+        #place_order{
+            background: #333333 !important;
+            padding: 10px 70px !important;
+            border-radius: 10px;
+            text-transform: uppercase;
+            font-weight: 100;
+            transition: .3s ease-in-out;
+            &:focus{
+                outline: none;
+            }
+            &:hover{
+                transition: .3s ease-in-out;
+                background-color: #e7e7e7 !important;
+               color: #333333 !important;
+               border: 0;
+            }
+        }
+    }
+}
+.woocommerce{
+    .woocommerce-cart-form{
+        tr{
+            .pldh{
+                &::before{
+                    content: '' !important;
+                }
+            }
+            td{
+                a{
+                    color: #cde8e7;
+                    text-decoration: none;
+                }
+                button{
+                    width: 100%;
+                    
+                    color: #000;
+                    background-color: #cde8e7 !important;
+                    &:focus{
+                        outline: none;
+                    }
+                }
+                .coupon{
+                    width: 100%;
+                    position: relative;
+                    .input-text{
+                        width: 100% !important;
+                        border: 2px solid #cde8e7 !important;
+                       
+                    }
+                    .button{
+                        position: absolute;
+                        right: 0;
+                        top: 0;
+                        outline: none !important;
+
+ 
+
+                    }
+                }
+            }
+        }
+    }
+}
+.woocommerce-form-coupon-toggle {
+    display: none;
+    .woocommerce-info {
+        background-color: #00c2fd;
+        color: #ffffff;
+        text-align: center;
+        margin-top: -23px;
+        border: 0;
+             a {
+                 color: #ffffff;
+                 font-weight: 700;
+             }
+    }
+    ::before {
+        color: #000000;
+        display: none;
+    }
+}
+.payment_method_paypal {
+    a {
+        display: none;
+    }
+}
+
+
+
+}
+.payment_box{
+    background-color: #FFF !important;
+    &::before{
+        border: 1em solid #FFF !important;
+        border-right-color: transparent !important;
+        border-left-color: transparent !important;
+        border-top-color: transparent !important;
+    }
+}
+
+.thankyouCC {
+    background-color: #ffffff;
+    box-shadow: 1px 1px 19px 1px rgba(0,0,0,0.25);
+    border-radius: 20px;
+    padding: 20px;
+
+    p{
+        text-align: center;
+        text-transform: uppercase;
+        font-weight: 400;
+    }
+    ul{
+        background-color: #ffffff;
+        padding:20px;
+        li {
+            border-right: 5px;
+            font-weight: 300;
+        }
+    }
+}
+.orderDetailsCC {
+    section {
+        h2 {
+            text-transform: uppercase;
+            font-weight: 100;
+        }
+        table {
+            background-color: #ffffff;
+        }
+        address {
+            background-color: #ffffff;
+            text-transform: uppercase;
+        }
+    }
+}
+span.select2-dropdown {
+    background-color: #e7e7e7;
+    font-weight: 100;
+    color: #333333;
+    border-radius: 20px;
+    padding-bottom: 20px;
+
+    .select2-search {
+        padding:0;
+        margin: 0;
+       input {
+           padding-top: 10px;
+           padding-bottom: 10px;
+        background-color: #0073AA;
+        border: 0;
+        color: #ffffff;
+        font-weight: 100;
+       }
+    }
+}
+ 
+.woocommerce table.shop_table th {
+    font-weight: 100;
+}
+.woocommerce table.shop_table tbody th, .woocommerce table.shop_table tfoot td, .woocommerce table.shop_table tfoot th {
+    font-weight: 100;
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 767px) {
+   .bgCheckout {
+       padding: 0;
+       margin: 0;
+
+       .custom-checkout {
+         padding: 5px !important;
+        form {
+            .billing-details {
+                padding: 0 !important;
+                margin:  0 !important;
+            }
+        }
+        .woocommerce-billing-fields {
+            border-radius: 10px;
+            border-bottom-left-radius: 0;
+            border-bottom-right-radius: 0;
+        }
+        .formaPorosia {
+            border-radius: 10px;
+            border-top-left-radius: 0;
+            border-top-right-radius: 0;
+        }
+
+       }
+       
+}
+.thankyouCC {
+    h2 {
+        font-size: 15px;
+        text-align: center;
+    }
+    p {
+        font-weight: 100;
+    }
+    ul {
+        li {
+            font-weight: 100;
+        }
+    }
+    .woocommerce-customer-details {
+        address {
+            font-weight: 100;
+            font-size: 15px;
+            p {
+                font-size: 10px;
+                word-wrap: break-word;
+                font-weight: 100;
+
+            }
+        }
+    }
+    .orderDetailsCC {
+        h2 {
+            font-weight: 100;
+        }
+    }
+}
+
+
+}

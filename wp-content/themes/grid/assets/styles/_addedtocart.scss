@@ -1,0 +1,88 @@
+.formaCheckout {
+padding-top: 30px;
+    .tabelaProduktev {
+         
+        thead{
+            tr {
+                th {
+                    background-color: #333333;
+                    color: #ffffff;
+                    font-weight: 100;
+                    text-transform: uppercase;
+                }
+            }
+        }
+    
+    }
+  
+    .emriproduktitp {
+        a {
+            color: #000000;
+           font-weight: 100;
+        }
+    }
+    .qmimiproduktitp {
+        color: #000000;
+        font-weight: 100;
+    }
+    .sasiaproduktitp {
+        input {
+            border: 0 !important;
+            background-color: #e0e0e0;
+        }
+    }
+
+    .totaliproduktitp {
+        font-weight: 100;
+        color: #000000;
+    }
+    .kuponiCart {
+        display: none;
+        input {
+            font-weight: 100;
+            width: 100%;
+            border: 2px solid #333333 !important;
+        }
+        button {
+            background-color: #333333;
+            border: 2px solid #333333 !important;
+            font-weight: 100;
+            color: #ffffff;
+            &:hover {
+                background-color: #f7f4f4;
+                color: #000000;
+                
+            }
+        }
+        .perditesohubtnCart {
+            font-weight: 100 !important;
+        }
+    }
+    .kolonaProduktet {
+        background-color: #f1f1f1;
+    }
+    .fshijeProduktin {
+        a {
+            color: #000000;
+            background-color: #ffffff;
+        }
+    }
+ 
+ 
+}
+.cart_totals {
+    font-weight: 100;
+    h2 {
+        font-weight: 100;
+    }
+   
+    .wc-proceed-to-checkout {
+      
+        a {
+            background-color: #333333 !important;
+            font-weight: 100;
+        }
+    }
+}
+
+

@@ -1,0 +1,147 @@
+*:focus {
+  outline: 0 !important;
+}
+
+.site-footer {
+  background-color: #252525;
+  padding-top: 50px;
+
+  .tnp {
+    .tnp-submit {
+      font-weight: bold;
+      text-transform: uppercase;
+      border-radius: 40px;
+      margin-top: 10px;
+      width: 50%;
+      margin-left: auto;
+      margin-right: 0;
+      display: block;
+      &:hover{
+          transform: scale(1.2);
+          transition: 0.4s;
+        }
+      }
+      .tnp-email {
+        font-weight: bold;
+        text-transform: uppercase;
+        border-radius: 40px;
+      }
+  }
+
+  .widget-title {
+    text-transform: uppercase;
+    font-weight: 500;
+
+  }
+.icons {
+  
+  a {
+    font-size: 20px;
+    text-align: center;
+  }
+}
+
+
+  .footers {
+      #media_image-2{
+          display: flex;
+          justify-content: center;
+      }
+    li {
+        h3{
+            color: #FFF;
+            margin-bottom: 20px;
+        }
+      list-style-type: none;
+      p{
+          margin-bottom: 0;
+          color: #FFF;
+      }
+      i{
+          margin-right: 10px;
+      }
+      a{
+        margin-top: 40px;
+          color:#FFF;
+          text-decoration: none;
+          transition: .3s ease-in-out;
+          &:hover{
+              transition: .3s ease-in-out;
+              opacity: .7;
+              font-size: 14px;
+          }
+      }
+      img {
+        width: 100px;
+        object-fit: cover;
+      }
+    }
+  }
+  hr {
+    border-top: 1px solid #fff;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+  #hr2 {
+    border-top: 1px solid #fff;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+}
+.bootom-footer{
+    
+    p{
+        color: #FFF;
+        text-align: center;
+        margin-bottom: 0;
+        padding-bottom: 10px;
+        a{
+            color: #FFF;
+            opacity: .7;
+            text-decoration: none;
+        }
+    }
+    #newsletterwidgetminimal-2 {
+
+    }
+}
+
+
+/* MEDIA PER SMARTPHONE */
+@media only screen and (min-device-width: 320px) and (max-device-width: 767px) {
+
+  .site-footer {
+    display: flex;
+    flex-direction: column;
+    padding: 40px;
+
+    #footer1 {
+      order: 2;
+text-align: center;
+margin-top: 30px;
+    }
+    #footer2 {
+      order: 1;
+      text-align: center;
+      
+    }
+    #footer3 {
+      order: 3;
+      text-align: center;
+      margin-top: 30px;
+
+    }
+    .tnp {
+      .tnp-submit{
+        margin-left: auto;
+        margin-right: auto;
+      }
+    }
+    
+  }
+
+}

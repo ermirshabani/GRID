@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec1a0ea6-cdb4-4843-9e82-27b3e862c9f3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../wp-admin/css/colors/blue/colors.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../wp-admin/css/colors/blue/colors.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wp-admin/css/colors/coffee/colors.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../wp-admin/css/colors/coffee/colors.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wp-admin/css/colors/ectoplasm/colors.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../wp-admin/css/colors/ectoplasm/colors.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wp-admin/css/colors/light/colors.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../wp-admin/css/colors/light/colors.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wp-admin/css/colors/midnight/colors.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../wp-admin/css/colors/midnight/colors.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wp-admin/css/colors/modern/colors.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../wp-admin/css/colors/modern/colors.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wp-admin/css/colors/ocean/colors.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../wp-admin/css/colors/ocean/colors.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wp-admin/css/colors/sunrise/colors.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../wp-admin/css/colors/sunrise/colors.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../plugins/mailchimp-for-woocommerce/CHANGELOG.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../plugins/mailchimp-for-woocommerce/CHANGELOG.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../plugins/mailchimp-for-woocommerce/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../plugins/mailchimp-for-woocommerce/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../plugins/mailchimp-for-woocommerce/admin/class-mailchimp-woocommerce-admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../plugins/mailchimp-for-woocommerce/admin/class-mailchimp-woocommerce-admin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../plugins/mailchimp-for-woocommerce/admin/partials/tabs/campaign_defaults.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../plugins/mailchimp-for-woocommerce/admin/partials/tabs/campaign_defaults.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../plugins/mailchimp-for-woocommerce/admin/partials/tabs/store_info.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../plugins/mailchimp-for-woocommerce/admin/partials/tabs/store_info.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../plugins/mailchimp-for-woocommerce/bootstrap.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../plugins/mailchimp-for-woocommerce/bootstrap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../plugins/mailchimp-for-woocommerce/includes/api/class-mailchimp-api.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../plugins/mailchimp-for-woocommerce/includes/class-mailchimp-woocommerce-newsletter.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../plugins/mailchimp-for-woocommerce/includes/class-mailchimp-woocommerce-newsletter.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../plugins/mailchimp-for-woocommerce/includes/class-mailchimp-woocommerce-rest-api.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../plugins/mailchimp-for-woocommerce/includes/class-mailchimp-woocommerce-rest-api.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../plugins/mailchimp-for-woocommerce/includes/class-mailchimp-woocommerce-service.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../plugins/mailchimp-for-woocommerce/includes/class-mailchimp-woocommerce-service.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../plugins/mailchimp-for-woocommerce/includes/class-mailchimp-woocommerce.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../plugins/mailchimp-for-woocommerce/includes/class-mailchimp-woocommerce.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../plugins/mailchimp-for-woocommerce/includes/processes/class-mailchimp-woocommerce-cart-update.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../plugins/mailchimp-for-woocommerce/includes/processes/class-mailchimp-woocommerce-cart-update.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../plugins/mailchimp-for-woocommerce/includes/processes/class-mailchimp-woocommerce-single-order.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../plugins/mailchimp-for-woocommerce/includes/processes/class-mailchimp-woocommerce-single-order.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../plugins/mailchimp-for-woocommerce/includes/processes/class-mailchimp-woocommerce-user-submit.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../plugins/mailchimp-for-woocommerce/includes/processes/class-mailchimp-woocommerce-user-submit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../plugins/mailchimp-for-woocommerce/languages/mc-woocommerce.pot" beforeDir="false" afterPath="$PROJECT_DIR$/../../plugins/mailchimp-for-woocommerce/languages/mc-woocommerce.pot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../plugins/mailchimp-for-woocommerce/mailchimp-woocommerce.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../plugins/mailchimp-for-woocommerce/mailchimp-woocommerce.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../plugins/mailchimp-for-woocommerce/public/class-mailchimp-woocommerce-public.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../plugins/mailchimp-for-woocommerce/public/class-mailchimp-woocommerce-public.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../plugins/mailchimp-for-woocommerce/uninstall.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../plugins/mailchimp-for-woocommerce/uninstall.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../plugins/woocommerce/templates/content-product.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../plugins/woocommerce/templates/content-product.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ErmirShabani/assets/Images/exsamLogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ErmirShabani/assets/Images/orangephoto.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ErmirShabani/assets/Images/photo1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ErmirShabani/assets/Images/photo2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ErmirShabani/assets/Images/svgBg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ErmirShabani/assets/Images/svgBg1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ErmirShabani/assets/Images/svgbg2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ErmirShabani/assets/bootstrap/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ErmirShabani/assets/bootstrap/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ErmirShabani/assets/jquery/jquery.slim.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ErmirShabani/assets/slick/ajax-loader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ErmirShabani/assets/slick/fonts/slick.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ErmirShabani/assets/slick/fonts/slick.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ErmirShabani/assets/slick/fonts/slick.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ErmirShabani/assets/slick/fonts/slick.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ErmirShabani/assets/slick/slick-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ErmirShabani/assets/slick/slick.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ErmirShabani/assets/slick/slick.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ErmirShabani/assets/styles/_home.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ErmirShabani/assets/styles/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ErmirShabani/assets/styles/style.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ErmirShabani/assets/styles/style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ErmirShabani/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ErmirShabani/functions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ErmirShabani/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ErmirShabani/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ErmirShabani/screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ErmirShabani/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ErmirShabani/templates/abiturflyer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ErmirShabani/templates/home.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ErmirShabani/wp_bootstrap_navwalker.php" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1hxIAv7U35jC2DHCcPUGZzQgubb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec1a0ea6-cdb4-4843-9e82-27b3e862c9f3" name="Default Changelist" comment="" />
+      <created>1600946176938</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600946176938</updated>
+      <workItem from="1600946178247" duration="74000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
