@@ -2,8 +2,46 @@
     Template Name: Contact
  -->
 <?php get_header(); ?>
+                                
 <div class="firstBg">
-<div class="bg-contact">
+<div id="map" id="overlaymap"></div>
+
+<button class=" butonishfaqe" onclick="shfaqe()">
+ <p id="shfaqeparagrafi"><i class='fa fa-street-view' aria-hidden='true'></i> Lokacioni</p></button>
+
+
+<div class="bg-contact" id="bgcontact">
+
+<script>
+function shfaqe() {
+  
+  var bgcontact = document.getElementById("bgcontact");
+  var shfaqeparagrafi = document.getElementById("shfaqeparagrafi");
+  var mapa = document.getElementById("map");
+
+  if (bgcontact.style.opacity === "0") {
+    bgcontact.style.opacity = "1";
+    bgcontact.style.visibility = "visible";
+    bgcontact.style.transition = "0.5s ease-in-out";
+    shfaqeparagrafi.innerHTML = "<i class='fa fa-street-view' aria-hidden='true'></i> Lokacioni";
+    mapa.style.filter = "brightness(0.4)";
+    mapa.style.transition = "0.5s ease-in-out";
+
+  } else {
+    bgcontact.style.visibility = "hidden";
+    bgcontact.style.transition = "0.2s ease-in-out";
+    bgcontact.style.opacity = "0";
+    shfaqeparagrafi.innerHTML = "<i class='fas fa-address-card'></i> Kontakti";
+    mapa.style.filter = "brightness(1)";
+    mapa.style.transition = "0.2s ease-in-out";
+  }
+}
+</script>
+
+
+
+
+
 
 <div class="container">
 <div class="row">
@@ -44,15 +82,7 @@
 </div>
 </div>
 
-<div class="test1">
 
-
-                                <div class="overly"></div>
-
- 
-
-                                <div id="map" id="overlaymap"></div>
-                                </div>
                                     <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCVu3FMyk485eNAMGE6uc5ttRxS1PYDFJE"></script>
                                     <script type="text/javascript">
                                         // When the window has finished loading create our google map below
